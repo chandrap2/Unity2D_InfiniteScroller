@@ -1,8 +1,7 @@
 # Unity2D_InfiniteScroller
 An 2D infinite scroller project to gain experience with Unity and engineering for intensive real-time games
 
-## Controls
-Space to jump. D to dash (used for testing)
+[Game hosted on itch.io](https://c-and.itch.io/chocolate-mountain)
 
 ## Unity Features
 - Sprites for player, terrain and scrolling background
