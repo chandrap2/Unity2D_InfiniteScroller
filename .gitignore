@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!/Assets
+!/Assets/**
+!/ProjectSettings
+!/ProjectSettings/**
