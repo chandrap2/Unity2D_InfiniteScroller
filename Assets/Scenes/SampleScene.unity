@@ -1801,6 +1801,10 @@ PrefabInstance:
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 1761457475}
+    - target: {fileID: 3757693787870029677, guid: 9523e85d076f8a246ba9b3e5db456d56, type: 3}
+      propertyPath: worldSpeed
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
